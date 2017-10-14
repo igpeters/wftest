@@ -1,4 +1,4 @@
 # wftest
 Workflow Test
 
-/play crickets
+:sleeping:
